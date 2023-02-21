@@ -17,7 +17,7 @@ public class ArthematiOperations {
 			return z;
 		} else{
 			z=y-x;
-			System.out.println("2nd num is greater and diff is  : "+ z);
+			System.out.println("2nd num is greater and diff is hghfhyfhgj : "+ z);
 			return z;
 		}
 			
